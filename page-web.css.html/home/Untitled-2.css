@@ -1,0 +1,102 @@
+body {
+    background: -webkit-linear-gradient(180deg, rgb(115, 115, 115), rgb(87, 87, 87));
+}
+
+@media (min-width: 200px){
+    .titlle {
+        font-size: 20px;
+        padding: 3px;
+        color: white;
+        margin: 0 auto;
+        width: max-content;
+}
+  
+    .page-web  {
+        margin: 0 auto;
+        margin-top: 10%;
+        width: max-content;
+        padding: 3px;
+        text-decoration: none;
+    }
+    a.home {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 13px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    
+    }
+    a.about {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 13px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    }
+    a.about:hover {
+        background: black;
+        color: white;
+    }
+    a.contact {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 13px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    }
+    a.contact:hover {
+        background: black;
+        color: white;
+    }   
+     a.blog {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 13px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    }
+    a.blog:hover {
+        background: black;
+        color: white;
+    }
+  
+    .titlle-text {
+        margin: 0 auto;
+        width: max-content;
+        margin-top: 35px;
+        direction: rtl;
+        font-size: 30px;
+    }
+    .widthe-page {
+        color: white;
+        padding: 3px;
+        padding-left: 10px;
+        padding-right: 10px;
+        direction: rtl;
+    }
+    .botton-red {
+        margin: 44px auto;
+        direction: rtl;
+        width: max-content;
+}
+    a.red-more {
+        text-decoration: none;
+        border: 1px black solid;
+        padding: 8px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    }
+    .social-media {
+        margin: 0 auto;
+        width: max-content;    
+}
+}

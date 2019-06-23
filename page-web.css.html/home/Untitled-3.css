@@ -1,0 +1,112 @@
+@media (min-width: 1000px){
+    .titlle {
+        font-size: 20px;
+        padding: 3px;
+        color: white;
+        margin-left: 4%;
+     
+    }
+    .page-web {
+        margin: 0 auto;
+        margin-left: 77%;
+        margin-top: -27px;
+        color: white;
+    }
+    a.home {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 18px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    
+    }
+
+    a.about {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 18px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    
+    }
+
+    a.contact  {
+        text-decoration: none;
+         padding: 7px;
+         border: 1px black solid;
+         font-size: 18px;
+         border-radius: 11px;
+         color: black;
+         background: white;
+    }
+    
+    a.blog {
+        text-decoration: none;
+        padding: 7px;
+        border: 1px black solid;
+        font-size: 18px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    
+    }
+ 
+    .widthe-page {
+        padding: 50px;
+        padding-left: 150px;
+        padding-right: 150px;
+        margin-top: 91px;
+        color: white;
+    }
+    .titlle-text {
+        margin: 0 auto;
+        width: fit-content;
+        direction: rtl;
+        font-size: 30px;
+    }
+    p.text-page {
+        direction: rtl;
+        padding: 30px;
+        padding-right: 190px;
+        padding-left: 160px;
+        width: fit-content;
+    }
+    .botton-red {
+        margin: 0 auto;
+        margin-left: 47%;
+        direction: rtl;
+        width: fit-content;
+    }
+    a.red-more {
+        text-decoration: none;
+        border: 1px black solid;
+        padding: 8px;
+        border-radius: 11px;
+        color: black;
+        background: white;
+    }
+    a.red-more:hover {
+        background: black;
+        color: white;
+    }
+    .fotter {
+        height: 22vh;
+    }
+    .cropethor {
+        margin: 0 auto;
+        margin-top: 60px;
+        width: fit-content;
+        color: white;
+        margin-left: 85%;
+    }
+ 
+    .social-media {
+        margin: 0 auto;
+        width: max-content;
+        margin-left: 45%;
+    }
+    }

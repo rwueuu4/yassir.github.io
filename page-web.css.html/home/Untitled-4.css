@@ -1,0 +1,53 @@
+@media (min-width: 1400px){
+    .titlle {
+        font-size: 44px;
+        padding: 3px;
+        color: white;
+    }
+    .page-web {
+        margin: 0 auto;
+        margin-left: 77%;
+        margin-top: -27px;
+    
+    }
+    a.home {
+        padding: 7px;
+        font-size: 30px;
+        border-radius: 11px;
+    }
+    a.about {
+        padding: 7px;
+        font-size: 30px;
+    }
+    a.contact  {
+         padding: 7px;
+         font-size: 30px;
+    }
+    a.blog {
+        padding: 7px;
+        font-size: 30px;
+        border-radius: 11px;
+    }
+    .titlle-text {
+        font-size: 50px;
+    }
+    p.text-page {
+        direction: rtl;
+        padding: 36px;
+        padding-right: 234px;
+        padding-left: 234px;
+        font-size: 35px;
+        
+    }
+    a.red-more {
+        font-size: 30px;
+    }
+    .cropethor {
+        margin-left: 85%;
+    }
+    .social-media {
+        margin: 0 auto;
+        width: fit-content;
+        margin-left: 47%;
+    }
+}

@@ -1,0 +1,49 @@
+body {
+    background: white;
+    margin: 2%;
+    padding: 2%;
+    width: auto;
+}
+@media (min-width : 240px) {
+    .img-profaile {
+        margin: 0 auto;
+        width: max-content;
+        margin-top: -4%;
+        margin-bottom: 6%;
+    }
+    .top-page {
+        margin: 0 auto;
+            margin-top: 0px;
+        margin-top: 7%;
+    }
+    .title {
+        margin: 0 auto;
+        width: max-content;
+        font-size: 3rem;
+        margin-bottom: 34px;
+    }
+    .text-page1 p {
+        padding-left: 31%;
+        padding-right: 31%;
+        margin: 0 auto;
+        direction: rtl;
+        margin-top: 48px;
+    }
+    .read , .read a {
+        text-decoration: none;
+        color: black;
+        font-size: 18px;
+        margin: 0 auto;
+        width: max-content;
+        margin-top: 38px;
+    }
+    .red-more {
+        border: 1px #ffbb3e solid;
+        padding: 7px;
+        border-radius: 15px;
+        background: #fff;
+    }
+    .red-more:hover {
+        background: #ffdd9e;
+    }
+}
